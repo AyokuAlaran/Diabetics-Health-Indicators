@@ -1,6 +1,6 @@
 # Diabetics-Health-Indicators
 This is a machine learning model project that was built to classify users into Diabetic or non-Diabetic health conditions based on their lifestyle (eating habits, exercise frequency, e.t.c.) and general information about them (like their income, education, BMI, age e.t.c). 
-Three different classification models were used in the building process:
+Three different classifiers were used in the building process:
  - XGBClassifier
  - RandomForestClassifier
  - LightGBMClassifier
